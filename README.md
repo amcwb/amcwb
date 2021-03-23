@@ -65,14 +65,14 @@ Hey, I'm @starsflower, or as I'm known as IRL, "Jacob". I work on a lot of code 
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/starsflower/hedgehog">Hedgehog</a>
+            <a href="https://github.com/starsflower/weasel">Weasel</a>
         </td>
         <td>
-            <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg"/>
+            <img src="https://img.shields.io/badge/Made%20with-TypeScript-blue"/>
         </td>
         <td>
-            A programming language that is a superset of Python, which is transpiled into Python and will support a host of extra features once complete.
-            <br/><img src="https://gh-card.dev/repos/starsflower/hedgehog.svg"/>
+            A generic backend for multiplayer games, written in TypeScript
+            <br/><img src="https://gh-card.dev/repos/starsflower/weasel.svg"/>
         </td>
     </tr>
     <tr>
@@ -176,14 +176,14 @@ Salut ! Je suis @starsflower, plus connu sous le nom « Jacob ». Je bosse beauc
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/starsflower/hedgehog">Hedgehog</a>
+            <a href="https://github.com/starsflower/weasel">Weasel</a>
         </td>
         <td>
-            <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg"/>
+            <img src="https://img.shields.io/badge/Made%20with-TypeScript-blue"/>
         </td>
         <td>
-            Un langage de programmation qui est un sur-ensemble de Python, qui est transposé en Python et qui supportera une foule de fonctionnalités supplémentaires une fois terminé.
-            <br/><img src="https://gh-card.dev/repos/starsflower/hedgehog.svg"/>
+            Un backend générique pour les jeux multi-joueurs, écrit en TypeScript
+            <br/><img src="https://gh-card.dev/repos/starsflower/weasel.svg"/>
         </td>
     </tr>
     <tr>
