@@ -1,11 +1,12 @@
-# @discordstars
+# @starsflower
+(Consultez la version français [ici](#français))
 
 [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
 
-(Consultez la version français [ici](#français))
+[![Stars's GitHub stats](https://github-readme-stats.vercel.app/api?username=starsflower)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Hey, I'm @discordstars, or as I'm known as IRL, "Jacob". I work on a lot of code projects, most of which are closed source - but I love open source! Here are some projects I work on:
+Hey, I'm @starsflower, or as I'm known as IRL, "Jacob". I work on a lot of code projects, most of which are closed source - but I love open source! Here are some projects I work on:
 
 ## Main Projects
 
@@ -52,63 +53,63 @@ Hey, I'm @discordstars, or as I'm known as IRL, "Jacob". I work on a lot of code
     </tr>
     <tr>
         <td>
-            <a href="https://discordstars.github.io/notes">Notes</a>
+            <a href="https://starsflower.github.io/notes">Notes</a>
         </td>
         <td>
-            <img src="https://img.shields.io/website-up-down-green-red/https/discordstars.github.io/notes.svg"/>
+            <img src="https://img.shields.io/website-up-down-green-red/https/starsflower.github.io/notes.svg"/>
         </td>
         <td>
             A simple notes taking site with subject and topic categorisation features, using <code>localStorage</code> to store all notes privately, not on any server or database.
-            <br/><img src="https://gh-card.dev/repos/discordstars/notes.svg"/>
+            <br/><img src="https://gh-card.dev/repos/starsflower/notes.svg"/>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/discordstars/hedgehog">Hedgehog</a>
+            <a href="https://github.com/starsflower/hedgehog">Hedgehog</a>
         </td>
         <td>
             <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg"/>
         </td>
         <td>
             A programming language that is a superset of Python, which is transpiled into Python and will support a host of extra features once complete.
-            <br/><img src="https://gh-card.dev/repos/discordstars/hedgehog.svg"/>
+            <br/><img src="https://gh-card.dev/repos/starsflower/hedgehog.svg"/>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/discordstars/Quadrilateral">Quadrilateral</a>
+            <a href="https://github.com/starsflower/Quadrilateral">Quadrilateral</a>
         </td>
         <td>
             <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg"/>
-            <img src="https://img.shields.io/website-up-down-green-red/https/discordstars.github.io/Quadrilateral.svg"/>
+            <img src="https://img.shields.io/website-up-down-green-red/https/starsflower.github.io/Quadrilateral.svg"/>
         </td>
         <td>
             An 2 dimensional estoric programming language, taking inspiration from Brainf*ck.
-            <br/><img src="https://gh-card.dev/repos/discordstars/Quadrilateral.svg"/>
+            <br/><img src="https://gh-card.dev/repos/starsflower/Quadrilateral.svg"/>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="https://discordstars.github.io/timer">Timer</a>
+            <a href="https://starsflower.github.io/timer">Timer</a>
         </td>
         <td>
-            <img src="https://img.shields.io/website-up-down-green-red/https/discordstars.github.io/timer.svg"/>
+            <img src="https://img.shields.io/website-up-down-green-red/https/starsflower.github.io/timer.svg"/>
         </td>
         <td>
             A simple timer website. Click to start, click again to stop!
-            <br/><img src="https://gh-card.dev/repos/discordstars/timer.svg"/>
+            <br/><img src="https://gh-card.dev/repos/starsflower/timer.svg"/>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="https://discordstars.github.io/howoldami">How old am I?</a>
+            <a href="https://starsflower.github.io/howoldami">How old am I?</a>
         </td>
         <td>
-            <img src="https://img.shields.io/website-up-down-green-red/https/discordstars.github.io/howoldami.svg"/>
+            <img src="https://img.shields.io/website-up-down-green-red/https/starsflower.github.io/howoldami.svg"/>
         </td>
         <td>
             Giving people a true insight (and maybe insult) into how old they are.
-            <br/><img src="https://gh-card.dev/repos/discordstars/howoldami.svg"/>
+            <br/><img src="https://gh-card.dev/repos/starsflower/howoldami.svg"/>
         </td>
     </tr>
 </table>
@@ -116,7 +117,7 @@ Hey, I'm @discordstars, or as I'm known as IRL, "Jacob". I work on a lot of code
 
 # Français
 
-Salut ! Je suis @discordstars, plus connu sous le nom « Jacob ». Je bosse beaucoup de code, dont la plupart sont pas à open source - mais j'adore l'open source ! Voici quelques projets sur lesquels je travaille :
+Salut ! Je suis @starsflower, plus connu sous le nom « Jacob ». Je bosse beaucoup de code, dont la plupart sont pas à open source - mais j'adore l'open source ! Voici quelques projets sur lesquels je travaille :
 
 ## Principaux projets
 
@@ -163,63 +164,63 @@ Salut ! Je suis @discordstars, plus connu sous le nom « Jacob ». Je bosse beau
     </tr>
     <tr>
         <td>
-            <a href="https://discordstars.github.io/notes">Notes</a>
+            <a href="https://starsflower.github.io/notes">Notes</a>
         </td>
         <td>
-            <img src="https://img.shields.io/website-up-down-green-red/https/discordstars.github.io/notes.svg"/>
+            <img src="https://img.shields.io/website-up-down-green-red/https/starsflower.github.io/notes.svg"/>
         </td>
         <td>
             Un simple site poure prendre des notes avec des fonctionnalités de catégorisation par sujet et par thème, utilisant <code>localStorage</code> pour stocker toutes les notes en privé, et non sur un serveur ou une base de données.
-            <br/><img src="https://gh-card.dev/repos/discordstars/notes.svg"/>
+            <br/><img src="https://gh-card.dev/repos/starsflower/notes.svg"/>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/discordstars/hedgehog">Hedgehog</a>
+            <a href="https://github.com/starsflower/hedgehog">Hedgehog</a>
         </td>
         <td>
             <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg"/>
         </td>
         <td>
             Un langage de programmation qui est un sur-ensemble de Python, qui est transposé en Python et qui supportera une foule de fonctionnalités supplémentaires une fois terminé.
-            <br/><img src="https://gh-card.dev/repos/discordstars/hedgehog.svg"/>
+            <br/><img src="https://gh-card.dev/repos/starsflower/hedgehog.svg"/>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/discordstars/Quadrilateral">Quadrilatéral</a>
+            <a href="https://github.com/starsflower/Quadrilateral">Quadrilatéral</a>
         </td>
         <td>
             <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg"/>
-            <img src="https://img.shields.io/website-up-down-green-red/https/discordstars.github.io/Quadrilateral.svg"/>
+            <img src="https://img.shields.io/website-up-down-green-red/https/starsflower.github.io/Quadrilateral.svg"/>
         </td>
         <td>
             Un langage de programmation estorique en 2 dimensions, inspiré de Brainf*ck.
-            <br/><img src="https://gh-card.dev/repos/discordstars/Quadrilateral.svg"/>
+            <br/><img src="https://gh-card.dev/repos/starsflower/Quadrilateral.svg"/>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="https://discordstars.github.io/timer">Timer</a>
+            <a href="https://starsflower.github.io/timer">Timer</a>
         </td>
         <td>
-            <img src="https://img.shields.io/website-up-down-green-red/https/discordstars.github.io/timer.svg"/>
+            <img src="https://img.shields.io/website-up-down-green-red/https/starsflower.github.io/timer.svg"/>
         </td>
         <td>
             Un simple site web de chronométrage. Cliquez pour commencer, cliquez à nouveau pour arrêter !
-            <br/><img src="https://gh-card.dev/repos/discordstars/timer.svg"/>
+            <br/><img src="https://gh-card.dev/repos/starsflower/timer.svg"/>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="https://discordstars.github.io/howoldami">Quel âge ai-je ?
+            <a href="https://starsflower.github.io/howoldami">Quel âge ai-je ?
         </td>
         <td>
-            <img src="https://img.shields.io/website-up-down-green-red/https/discordstars.github.io/howoldami.svg"/>
+            <img src="https://img.shields.io/website-up-down-green-red/https/starsflower.github.io/howoldami.svg"/>
         </td>
         <td>
             Faire prendre conscience aux gens de leur âge
-            <br/><img src="https://gh-card.dev/repos/discordstars/howoldami.svg"/>
+            <br/><img src="https://gh-card.dev/repos/starsflower/howoldami.svg"/>
         </td>
     </tr>
 </table>
