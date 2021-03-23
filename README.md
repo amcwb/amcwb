@@ -1,12 +1,11 @@
 # @starsflower
 (Consultez la version français [ici](#français))
 
-[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
-
-[![Stars's GitHub stats](https://github-readme-stats.vercel.app/api?username=starsflower)](https://github.com/anuraghazra/github-readme-stats)
-
-
 Hey, I'm @starsflower, or as I'm known as IRL, "Jacob". I work on a lot of code projects, most of which are closed source - but I love open source! Here are some projects I work on:
+
+[![Stars's GitHub stats](https://github-readme-stats.vercel.app/api?username=starsflower&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starsflower&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Main Projects
 
@@ -118,6 +117,10 @@ Hey, I'm @starsflower, or as I'm known as IRL, "Jacob". I work on a lot of code 
 # Français
 
 Salut ! Je suis @starsflower, plus connu sous le nom « Jacob ». Je bosse beaucoup de code, dont la plupart sont pas à open source - mais j'adore l'open source ! Voici quelques projets sur lesquels je travaille :
+
+[![Stars's GitHub stats](https://github-readme-stats.vercel.app/api?username=starsflower&count_private=true&show_icons=true&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starsflower&layout=compact&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Principaux projets
 
