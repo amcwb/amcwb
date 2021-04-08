@@ -7,6 +7,7 @@ Hey, I'm @starsflower. I work on a lot of code projects, most of which are close
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starsflower&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 ## Main Projects
 
 <table>
@@ -111,7 +112,7 @@ Hey, I'm @starsflower. I work on a lot of code projects, most of which are close
             <br/><img src="https://gh-card.dev/repos/starsflower/howoldami.svg"/>
         </td>
     </tr>
-</table>
+</table> -->
 <!-- ![](./tenor.gif) -->
 
 # Français
@@ -121,7 +122,7 @@ Salut ! Je suis @starsflower. Je bosse beaucoup de code, dont la plupart sont pa
 [![Stars's GitHub stats](https://github-readme-stats.vercel.app/api?username=starsflower&count_private=true&show_icons=true&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starsflower&layout=compact&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--
 ## Principaux projets
 
 <table>
@@ -227,5 +228,5 @@ Salut ! Je suis @starsflower. Je bosse beaucoup de code, dont la plupart sont pa
         </td>
     </tr>
 </table>
-
+-->
 ![](./tenor.gif)
