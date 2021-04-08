@@ -1,5 +1,4 @@
 # @starsflower
-(Consultez la version français [ici](#français))
 
 Hey, I'm @starsflower. I work on a lot of code projects, most of which are closed source - but I love open source! Here are some projects I work on:
 
@@ -114,7 +113,7 @@ Hey, I'm @starsflower. I work on a lot of code projects, most of which are close
     </tr>
 </table> -->
 <!-- ![](./tenor.gif) -->
-
+<!--
 # Français
 
 Salut ! Je suis @starsflower. Je bosse beaucoup de code, dont la plupart sont pas à open source - mais j'adore l'open source ! Voici quelques projets sur lesquels je travaille :
@@ -122,7 +121,7 @@ Salut ! Je suis @starsflower. Je bosse beaucoup de code, dont la plupart sont pa
 [![Stars's GitHub stats](https://github-readme-stats.vercel.app/api?username=starsflower&count_private=true&show_icons=true&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starsflower&layout=compact&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
-<!--
+
 ## Principaux projets
 
 <table>
