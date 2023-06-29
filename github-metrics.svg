@@ -219,8 +219,8 @@
                                 <text fill="currentColor" x="-9" dy="0.32em">−10k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L153.081,140.5L218.27,140.5L229.135,140.5L332.351,140.5L413.838,140.5L424.703,140.5L441,140.5L441,140.355L424.703,121.857L413.838,140.324L332.351,140.137L229.135,103.141L218.27,5L153.081,96.889L39,140.469Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L153.081,140.5L218.27,140.5L229.135,140.5L332.351,140.5L413.838,140.5L424.703,140.5L441,140.5L441,140.573L424.703,143.082L413.838,140.51L332.351,140.718L229.135,140.51L218.27,140.593L153.081,143.175L39,140.531Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L120.486,140.5L153.081,140.5L218.27,140.5L229.135,140.5L332.351,140.5L413.838,140.5L424.703,140.5L435.568,140.5L441,140.5L441,116.092L435.568,133.263L424.703,121.857L413.838,140.324L332.351,140.137L229.135,103.141L218.27,5L153.081,96.889L120.486,136.446L39,140.469Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L120.486,140.5L153.081,140.5L218.27,140.5L229.135,140.5L332.351,140.5L413.838,140.5L424.703,140.5L435.568,140.5L441,140.5L441,150.983L435.568,140.531L424.703,143.082L413.838,140.51L332.351,140.718L229.135,140.51L218.27,140.593L153.081,143.175L120.486,140.583L39,140.531Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -305,7 +305,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 97 commits)</small>
+                    <small class="h-details">(computed from last 99 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -374,8 +374,8 @@
                             10
                         </div>
                         <div class="entry">
-                            <span class="value">8</span>
-                            <div class="bar" style="height: 22.22222222222222px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">10</span>
+                            <div class="bar" style="height: 27.77777777777778px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             11
                         </div>
                         <div class="entry">
@@ -451,27 +451,27 @@
                             </div>
                             <div class="entry">
                                 <span class="value">19</span>
-                                <div class="bar" style="height: 39.58333333333333px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 36.53846153846153px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
                                 <span class="value">14</span>
-                                <div class="bar" style="height: 29.166666666666668px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 26.923076923076923px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
                                 <span class="value">17</span>
-                                <div class="bar" style="height: 35.41666666666667px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 32.69230769230769px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Wed
                             </div>
                             <div class="entry">
-                                <span class="value">24</span>
+                                <span class="value">26</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
                                 <span class="value">23</span>
-                                <div class="bar" style="height: 47.91666666666667px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 44.230769230769226px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Fri
                             </div>
                             <div class="entry">
@@ -3026,7 +3026,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.34m out of 412m repositories</span>
+                                    <span class="gh">ranked 4.48m out of 412m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
