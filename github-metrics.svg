@@ -219,8 +219,8 @@
                                 <text fill="currentColor" x="-9" dy="0.32em">−10k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L72.972,140.5L140.915,140.5L152.239,140.5L259.817,140.5L344.746,140.5L367.394,140.5L373.056,140.5L441,140.5L441,32.363L373.056,116.237L367.394,133.263L344.746,140.324L259.817,100.881L152.239,103.141L140.915,5L72.972,96.889L39,136.446Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L72.972,140.5L140.915,140.5L152.239,140.5L259.817,140.5L344.746,140.5L367.394,140.5L373.056,140.5L441,140.5L441,140.832L373.056,150.91L367.394,140.531L344.746,140.51L259.817,140.749L152.239,140.51L140.915,140.593L72.972,143.175L39,140.583Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L72.972,140.5L140.915,140.5L152.239,140.5L259.817,140.5L344.746,140.5L367.394,140.5L373.056,140.5L441,140.5L441,32.363L373.056,116.092L367.394,133.263L344.746,140.324L259.817,100.881L152.239,103.141L140.915,5L72.972,96.889L39,136.446Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L72.972,140.5L140.915,140.5L152.239,140.5L259.817,140.5L344.746,140.5L367.394,140.5L373.056,140.5L441,140.5L441,140.832L373.056,150.983L367.394,140.531L344.746,140.51L259.817,140.749L152.239,140.51L140.915,140.593L72.972,143.175L39,140.583Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -2656,7 +2656,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 429k out of 113m users</span>
+                                    <span class="gh">ranked 429k out of 120m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">61</div>
                                     </div>
@@ -2908,7 +2908,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 598k out of 113m users</span>
+                                    <span class="gh">ranked 598k out of 120m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">21</div>
                                     </div>
@@ -3031,7 +3031,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.38m out of 54.6m repositories</span>
+                                    <span class="gh">ranked 4.68m out of 53.8m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
