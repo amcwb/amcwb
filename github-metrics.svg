@@ -154,29 +154,53 @@
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,37.3116008570554)">
+                            <g class="tick" opacity="1" transform="translate(0,11.073832582222654)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">10k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,89.15580042852771)">
+                            <g class="tick" opacity="1" transform="translate(0,37.059066065778126)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">5.0k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">8.0k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,63.044299549333594)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">6.0k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,89.02953303288905)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">4.0k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,115.01476651644452)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">2.0k</text>
                             </g>
                             <g class="tick" opacity="1" transform="translate(0,141)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,192.84419957147227)">
+                            <g class="tick" opacity="1" transform="translate(0,166.98523348355545)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−5.0k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">−2.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,244.6883991429446)">
+                            <g class="tick" opacity="1" transform="translate(0,192.97046696711095)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">−4.0k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,218.9557004506664)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">−6.0k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,244.9409339342219)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">−8.0k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,270.9261674177774)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−10k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L137.163,140.5L188.581,140.5L193.256,140.5L291.419,140.5L361.535,140.5L380.233,140.5L384.907,140.5L441,140.5L441,32.363L384.907,116.237L380.233,133.263L361.535,140.324L291.419,140.137L193.256,5L188.581,135.627L137.163,96.889L39,140.469Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L137.163,140.5L188.581,140.5L193.256,140.5L291.419,140.5L361.535,140.5L380.233,140.5L384.907,140.5L441,140.5L441,140.832L384.907,150.91L380.233,140.531L361.535,140.51L291.419,140.718L193.256,140.593L188.581,142.874L137.163,143.175L39,140.531Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L109.116,140.5L137.163,140.5L202.605,140.5L291.419,140.5L361.535,140.5L370.884,140.5L380.233,140.5L384.907,140.5L441,140.5L441,5L384.907,110.097L380.233,131.431L370.884,117.139L361.535,140.279L291.419,91.31L202.605,93.688L137.163,85.853L109.116,135.42L39,140.461Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L109.116,140.5L137.163,140.5L202.605,140.5L291.419,140.5L361.535,140.5L370.884,140.5L380.233,140.5L384.907,140.5L441,140.5L441,140.916L384.907,153.545L380.233,140.539L370.884,143.735L361.535,140.513L291.419,140.539L202.605,140.513L137.163,143.852L109.116,140.604L39,140.539Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -2981,7 +3005,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.02m out of 74.1m repositories</span>
+                                    <span class="gh">ranked 5.02m out of 76.9m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
