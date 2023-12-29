@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            6990 Commits
+                            7013 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -158,19 +158,11 @@
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,16.189978353981488)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">20k</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,47.39248376548612)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">15k</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,78.59498917699072)">
+                            <g class="tick" opacity="1" transform="translate(0,37.3116008570554)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">10k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,109.79749458849537)">
+                            <g class="tick" opacity="1" transform="translate(0,89.15580042852771)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">5.0k</text>
                             </g>
@@ -178,25 +170,17 @@
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,172.20250541150463)">
+                            <g class="tick" opacity="1" transform="translate(0,192.84419957147227)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−5.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,203.40501082300926)">
+                            <g class="tick" opacity="1" transform="translate(0,244.6883991429446)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−10k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,234.60751623451387)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−15k</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,265.8100216460185)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−20k</text>
-                            </g>
                         </g>
-                        <path d="M39,140.5L98.703,140.5L122.584,140.5L166.366,140.5L170.347,140.5L178.307,140.5L253.931,140.5L313.634,140.5L321.594,140.5L329.554,140.5L333.535,140.5L425.079,140.5L429.059,140.5L433.04,140.5L437.02,140.5L441,140.5L441,139.726L437.02,97.965L433.04,122.346L429.059,5L425.079,75.106L333.535,125.81L329.554,136.144L321.594,129.28L313.634,140.394L253.931,140.282L178.307,118.015L170.347,58.949L166.366,137.567L122.584,114.252L98.703,138.06L39,140.481Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L98.703,140.5L122.584,140.5L166.366,140.5L170.347,140.5L178.307,140.5L253.931,140.5L313.634,140.5L321.594,140.5L329.554,140.5L333.535,140.5L425.079,140.5L429.059,140.5L433.04,140.5L437.02,140.5L441,140.5L441,140.931L437.02,141.392L433.04,145.174L429.059,141.08L425.079,140.525L333.535,146.809L329.554,140.519L321.594,142.054L313.634,140.506L253.931,140.631L178.307,140.506L170.347,140.556L166.366,141.929L122.584,142.11L98.703,140.55L39,140.519Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L98.703,140.5L122.584,140.5L170.347,140.5L178.307,140.5L253.931,140.5L313.634,140.5L321.594,140.5L329.554,140.5L333.535,140.5L381.297,140.5L433.04,140.5L437.02,140.5L441,140.5L441,139.214L437.02,69.826L433.04,124.014L381.297,32.363L333.535,116.092L329.554,133.263L321.594,121.857L313.634,140.324L253.931,100.881L178.307,103.141L170.347,5L122.584,96.889L98.703,136.446L39,140.469Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L98.703,140.5L122.584,140.5L170.347,140.5L178.307,140.5L253.931,140.5L313.634,140.5L321.594,140.5L329.554,140.5L333.535,140.5L381.297,140.5L433.04,140.5L437.02,140.5L441,140.5L441,141.215L437.02,141.983L433.04,143.186L381.297,140.832L333.535,150.983L329.554,140.531L321.594,143.082L313.634,140.51L253.931,140.749L178.307,140.51L170.347,140.593L122.584,143.175L98.703,140.583L39,140.531Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -2594,7 +2578,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.18822724161535 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.27310061601644 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3033,7 +3017,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.03m out of 54.7m repositories</span>
+                                    <span class="gh">ranked 5.04m out of 50.1m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
