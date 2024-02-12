@@ -182,19 +182,11 @@
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,16.189978353981488)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">20k</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,47.39248376548612)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">15k</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,78.59498917699072)">
+                            <g class="tick" opacity="1" transform="translate(0,19.920561165222065)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">10k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,109.79749458849537)">
+                            <g class="tick" opacity="1" transform="translate(0,80.46028058261102)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">5.0k</text>
                             </g>
@@ -202,25 +194,17 @@
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,172.20250541150463)">
+                            <g class="tick" opacity="1" transform="translate(0,201.53971941738894)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−5.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,203.40501082300926)">
+                            <g class="tick" opacity="1" transform="translate(0,262.07943883477793)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−10k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,234.60751623451387)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−15k</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,265.8100216460185)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−20k</text>
-                            </g>
                         </g>
-                        <path d="M39,140.5L150.667,140.5L165.556,140.5L180.444,140.5L187.889,140.5L277.222,140.5L359.111,140.5L366.556,140.5L374,140.5L403.778,140.5L426.111,140.5L433.556,140.5L441,140.5L441,45.594L433.556,140.488L426.111,90.264L403.778,139.751L374,132.269L366.556,5L359.111,75.106L277.222,140.488L187.889,125.81L180.444,136.144L165.556,129.28L150.667,140.394L39,116.655Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L150.667,140.5L165.556,140.5L180.444,140.5L187.889,140.5L277.222,140.5L359.111,140.5L366.556,140.5L374,140.5L403.778,140.5L426.111,140.5L433.556,140.5L441,140.5L441,142.665L433.556,140.506L426.111,141.168L403.778,140.644L374,143.558L366.556,141.08L359.111,140.525L277.222,140.512L187.889,146.809L180.444,140.519L165.556,142.054L150.667,140.506L39,140.65Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L150.667,140.5L165.556,140.5L180.444,140.5L187.889,140.5L277.222,140.5L359.111,140.5L366.556,140.5L374,140.5L403.778,140.5L411.222,140.5L426.111,140.5L433.556,140.5L441,140.5L441,67.223L433.556,140.476L426.111,140.294L411.222,135.645L403.778,136.722L374,105.278L366.556,5L359.111,13.621L277.222,14.202L187.889,111.998L180.444,132.049L165.556,118.73L150.667,140.294L39,94.236Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L150.667,140.5L165.556,140.5L180.444,140.5L187.889,140.5L277.222,140.5L359.111,140.5L366.556,140.5L374,140.5L403.778,140.5L411.222,140.5L426.111,140.5L433.556,140.5L441,140.5L441,142.619L433.556,140.512L426.111,140.512L411.222,142.353L403.778,140.803L374,149.569L366.556,141.59L359.111,140.548L277.222,140.912L187.889,152.741L180.444,140.536L165.556,143.515L150.667,140.512L39,140.791Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -3042,7 +3026,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.14m out of 64.1m repositories</span>
+                                    <span class="gh">ranked 5.14m out of 68.5m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
